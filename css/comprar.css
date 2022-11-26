@@ -67,6 +67,7 @@ a{
 }
 
 .divpv{
+    position: relative;
     text-align: center;
     color: rgb(182, 0, 0);  
 }
