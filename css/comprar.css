@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;}
+
+body{
+    background-color: #DCDCDC;
+    font-size: 15px;}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header{
+    text-align: center;
+    color: #fff;
+    background-color: #363636;
+    background-size: 300% 400%;
+    font-size: 15px;
+    padding: 20px;
+}
+
+a{
+    text-decoration: none;
+    color: #363636;
+}
+
+.infinicio{
+    text-align: center;
+    padding: 20px;
+}
+
+.txtpacote{
+    text-align: center;
+    padding: 10px;
+}
+
+.txtpacote2{
+    text-align: center;
+    padding: 10px;
+    color: rgb(182, 0, 0);
+}
+
+.pacote{
+    text-align: center;
+}
+
+.bonuspacotes{
+    color:#5d5353;
+    font-size: 14px;
+}
+
+.alertafim{
+    text-align: center;
+    color: rgb(182, 0, 0);
+}
+
+.formaspag{
+    padding: 20px;
+    position: relative;
+    text-align: center;
+}
+
+.voltaraoinicio{
+    position: relative;
+    text-align: center;
+}
