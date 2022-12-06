@@ -90,6 +90,9 @@ button:hover{
     padding: 5px;
     font-size: 21px;
 }
+.botaogrupos{
+    margin: 15px;
+}
 
 .linkbotao{
     text-align: center;
