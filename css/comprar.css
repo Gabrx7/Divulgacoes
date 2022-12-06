@@ -4,6 +4,7 @@
     box-sizing: border-box;}
 
 body{
+    text-align: center;
     background-color: #DCDCDC;
     font-size: 15px;}
 
@@ -22,7 +23,7 @@ header{
 
 a{
     text-decoration: none;
-    color: #363636;
+    color: #fff;
 }
 
 .infinicio{
@@ -98,9 +99,4 @@ button:hover{
 .linkbotao{
     text-decoration: none;
     color: #fff;
-}
-
-.toquepacote{
-    align-items: center;
-    text-align: center;
 }
