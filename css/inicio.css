@@ -74,10 +74,14 @@ button{
 }
 
 .botaogrupos{
-    margin: 20px;
+    margin: 10px;
 }
 
 .linkbotao{
     text-decoration: none;
     color: #fff;
+}
+
+.avisop{
+    margin: 5px;
 }
