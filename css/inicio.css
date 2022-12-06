@@ -26,13 +26,13 @@ a{
 
 .infinicio{
     text-align: center;
-    padding: 20px;
+    margin: 15px;
 }
 
 .comprar{
     text-align: center;
     font-size: 25px;
-    padding: 20px;
+    margin: 15px;
 }
         
 .titulocomofunciona{
@@ -41,12 +41,12 @@ a{
 
 .comofunciona{
     text-align: center;
-    padding: 15px;
+    margin: 15px;
     font-size: 15px;
 }
 
 .infseguranca {
-    padding: 20px;
+    margin: 15px;
 }
 .infsegurancah3{
     text-align: center;
@@ -60,7 +60,7 @@ a{
     font-size: 13px;}
 
 .formaspag{
-    padding: 20px;
+    margin: 15px;
     position: relative;
     text-align: center;
 }
