@@ -97,6 +97,7 @@ button:hover{
 }
 
 .linkbotao{
+    text-align: center;
     text-decoration: none;
     color: #fff;
 }
