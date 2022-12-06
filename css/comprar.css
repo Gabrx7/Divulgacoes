@@ -101,5 +101,6 @@ button:hover{
 }
 
 .toquepacote{
+    align-items: center;
     text-align: center;
 }
